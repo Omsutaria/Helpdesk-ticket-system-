@@ -1,0 +1,11 @@
+# No external dependencies required.
+# This project uses only Python standard library modules:
+# - sqlite3   (database)
+# - os        (file paths)
+# - sys       (platform detection)
+# - datetime  (timestamps)
+
+# Python 3.8+ required
+
+# To run:
+#   python helpdesk.py
